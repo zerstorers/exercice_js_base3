@@ -1,6 +1,6 @@
 var btngreen = document.getElementsByClassName("green")[0];
-var btnred = document.getElementsByClassName("red")[1];
-var btnblue = document.getElementsByClassName("blue")[2];
+var btnred = document.getElementsByClassName("red")[0];
+var btnblue = document.getElementsByClassName("blue")[0];
 var text = document.getElementById("texte");
 
 btngreen.addEventListener("click" , function(){
